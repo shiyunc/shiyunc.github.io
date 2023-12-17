@@ -1,7 +1,8 @@
 # About
-
-- medium: https://medium.com/@shiyun-c
+<br>
 - tableau: https://public.tableau.com/app/profile/sylearn
-- github: shiyunc
+- medium: https://medium.com/@shiyun-c
+
+# Projects
 
 
