@@ -12,14 +12,21 @@ I studied Electrical & Systems Engineering, involving data & systems. I experien
 - [ ] Cloud
 - [ ] Other data tools
 
-<br/>
+<br />
 
 * <https://public.tableau.com/app/profile/sylearn>
 * <https://medium.com/@shiyun-c>
 
+<br />
 
 ## School Projects
 
 #### Android Tv App using C#
 
 An Android Tv box is a set-top box device that allows users to stream video content through wireless connection (internet). I worked with my teammates to design and develop Android Tv Application. The purpose is to send information (text, image, video or stream live Tv) from server (computer) to client (TV) using c#.
+
+<br />
+
+#### UAS website using HTML CSS JS
+
+Research institute conducted research on several technologies to enable safe integration of unmanned aircraft system in an urban environment. I was assigned multiple projects which includes to create uas website using html css js.
