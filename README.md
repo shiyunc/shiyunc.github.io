@@ -5,8 +5,7 @@
 
 | Month    | Savings |
 | -------- | ------- |
-| January  | $250    |
+- [x] ss | January  | $250    |
 |February | $80     |
 | March    | $420    |
 
-- [x] ss
