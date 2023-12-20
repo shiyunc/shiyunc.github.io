@@ -11,5 +11,5 @@ I studied Electrical & Systems Engineering, involving biomedical data & systems.
 - [x] Python
 - [x] Tableau
 - [x] SQL
-- [x] HTMLCSSJS
+- [x] HTML CSS JS
 - [ ] In-progress other data tools
