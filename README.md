@@ -33,4 +33,5 @@ Research institute conducted research on several technologies to enable safe int
 An Android Tv box is a set-top box device that allows users to stream video content through wireless connection (internet). I worked with my teammates to design and develop Android Tv Application. The purpose is to send information (text, image, video or stream live Tv) from server (computer) to client (TV) using c#.
 
 ![tp1](https://github.com/shiyunc/shiyunc.github.io/assets/48885389/61263369-2bad-4a22-9362-af1412cb260e)
+
 ![tp3](https://github.com/shiyunc/shiyunc.github.io/assets/48885389/78ce9fbd-b4de-4fed-932b-51511405b4ab)
