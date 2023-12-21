@@ -8,6 +8,7 @@ I studied Electrical & Systems Engineering, involving data & systems. I experien
 - [x] SQL
 - [x] HTML CSS JS
 - [ ] Other data tools
+- [ ] Cloud
 
 <br />
 
