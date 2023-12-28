@@ -1,6 +1,8 @@
+## Projects
+
 I studied Electrical & Systems Engineering, involving data & systems, and I experienced in managing of large-scale systems development projects & data analytics.
 
-## Projects
+<https://github.com/shiyunc>
 
 <https://public.tableau.com/app/profile/sylearn>
 
