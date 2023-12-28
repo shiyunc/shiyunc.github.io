@@ -2,9 +2,9 @@ I studied Electrical & Systems Engineering, involving data & systems. I experien
 
 ### Courses & Certifications
 - [x] Self-learning
-- [x] Python for Data Analytics (January 2023 - March 2023)
-- [x] Data Science (January 2020)
-- [x] Advanced Excel (April 2018)
+- [x] Python for Data Analytics
+- [x] Data Science
+- [x] Advanced Excel
 
 ### Projects
 * <https://github.com/shiyunc>
