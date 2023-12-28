@@ -7,8 +7,6 @@ I studied Electrical & Systems Engineering, involving data & systems, and I expe
 - [x] Tableau
 - [x] SQL
 - [x] HTML CSS JS
-- [ ] Other data tools
-- [ ] Cloud
 
 <br />
 
