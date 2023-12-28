@@ -2,8 +2,12 @@ I studied Electrical & Systems Engineering, involving data & systems. I experien
 
 ## Skills
 - [x] Excel
+- [x] Python
+- [x] Tableau
+- [ ] SQL
+- [ ] Cloud
 
-## COURSES & CERTIFICATIONS
+## Courses & Certifications
 * Self-learning 
 * Python for Data Analytics (January 2023 - March 2023)
 * Data Science (January 2020)
