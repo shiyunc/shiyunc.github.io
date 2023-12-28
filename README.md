@@ -1,5 +1,8 @@
 I studied Electrical & Systems Engineering, involving data & systems. I experienced in managing of large-scale systems development projects, and have some working knowledge of data.
 
+## Skills
+- [x] Excel
+
 ## COURSES & CERTIFICATIONS
 * Self-learning 
 * Python for Data Analytics (January 2023 - March 2023)
