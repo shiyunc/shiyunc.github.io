@@ -1,4 +1,8 @@
-I studied Electrical & Systems Engineering, involving data & systems, and I experienced in managing of large-scale systems development projects & using data tools for data analytics
+I studied Electrical & Systems Engineering, involving data & systems, and I experienced in managing of large-scale systems development projects & using data tools for data analytics.
+
+<https://public.tableau.com/app/profile/sylearn>
+
+<https://medium.com/@shiyun-c>
 
 > Skills
 
@@ -6,10 +10,6 @@ I studied Electrical & Systems Engineering, involving data & systems, and I expe
 - [x] Python
 - [x] Tableau
 - [x] SQL
-
-<https://public.tableau.com/app/profile/sylearn>
-
-<https://medium.com/@shiyun-c>
 
 <br />
 
