@@ -6,7 +6,9 @@ I studied Electrical & Systems Engineering, involving data & systems, and I expe
 - [x] Python
 - [x] Tableau
 - [x] SQL
-- [x] HTML CSS JS
+
+<https://public.tableau.com/app/profile/sylearn> 
+<https://medium.com/@shiyun-c>
 
 <br />
 
