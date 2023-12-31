@@ -2,9 +2,9 @@ I studied Electrical & Systems Engineering, involving data & systems. I experien
 
 ### Courses
 - [x] Self-learning
-- [x] Python Data Analytics
-- [x] Data Science
-- [x] Advanced Excel
+- [x] Python data analytics
+- [x] Data science
+- [x] Advanced excel
 
 ### Projects
 * <https://github.com/shiyunc>
