@@ -2,7 +2,7 @@ I studied Electrical & Systems Engineering, involving data & systems. I experien
 
 ### Courses
 - [x] Self-learning
-- [x] Python for Data Analytics
+- [x] Python Data Analytics
 - [x] Data Science
 - [x] Advanced Excel
 
