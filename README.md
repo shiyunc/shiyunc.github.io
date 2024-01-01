@@ -9,10 +9,6 @@ I studied Electrical & Systems Engineering, involving data & systems. I experien
 ### Projects
 * <https://github.com/shiyunc>
 
-* <https://public.tableau.com/app/profile/sylearn>
-
-* <https://medium.com/@shiyun-c>
-
 <br />
 
 
