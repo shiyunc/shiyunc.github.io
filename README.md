@@ -6,11 +6,6 @@ I studied Electrical & Systems Engineering, involving data & systems. I experien
 - [x] Data science
 - [x] Advanced excel
 
-### Projects
-* <https://github.com/shiyunc>
-* <https://medium.com/@shiyun-c>
-* <https://public.tableau.com/app/profile/sylearn>
-
 <br />
 
 
